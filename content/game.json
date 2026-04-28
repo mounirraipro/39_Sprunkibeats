@@ -1,0 +1,192 @@
+{
+  "name": "Sprunki Beats",
+  "domain": "sprunkibeats.online",
+  "slug": "sprunkibeats",
+  "genre": "Casual",
+  "iframeUrl": "/game/index.html",
+
+  "seo": {
+    "title": "Sprunki Beats – Free Music Casual Game Online",
+    "description": "Play Sprunki Beats free in your browser — tap to the rhythm, build beats, and enjoy a colourful music casual game. No download or account needed.",
+    "keywords": ["Sprunki Beats", "Sprunki Beats online", "free music game browser", "casual rhythm game online", "play Sprunki Beats no download", "online beat game free", "music casual browser game"]
+  },
+
+  "homepage": {
+    "heroHeadline": "Sprunki Beats — Free Music Casual Game Online",
+    "heroSubtitle": "Tap characters, layer sounds, and create your own beat. A colourful music playground, free in your browser.",
+    "lede": "Sprunki Beats is a free browser casual game where you place animated characters on a stage and each one adds a unique sound to a growing musical loop. Layer beats, melodies, and effects to build a track you can be proud of — no musical experience required.",
+    "stats": [
+      { "value": "20+", "label": "Playable Characters" },
+      { "value": "100+", "label": "Unique Sound Loops" },
+      { "value": "0",    "label": "Downloads Needed" },
+      { "value": "100%", "label": "Free Forever" }
+    ],
+    "about": {
+      "kicker": "What is Sprunki Beats?",
+      "headline": "A Music Toy Where Everyone Sounds Good",
+      "paragraph1": "Sprunki Beats puts a cast of animated characters on a stage, and each character plays a looping sound — a kick drum, a melody riff, a vocal chop, or a synth bass. You drag characters onto slots, hear the sounds combine in real time, and adjust the arrangement until the mix sounds right. There's no fail state, no timer, and no wrong answer. The game is built around creative exploration rather than performance metrics.",
+      "paragraph2": "The appeal is immediate. Within thirty seconds you hear a beat forming, and every new character you add shifts the texture of the track. Players who experiment freely discover combinations that sound unexpectedly good. Removing a character strips out its sound layer instantly, so editing is tactile and fast. Sprunki Beats works as both a proper creative tool and a casual browser game you can enjoy without any intention of making something polished."
+    },
+    "howToPlay": {
+      "headline": "How to Play Sprunki Beats",
+      "subheading": "Drag characters onto the stage, hear the sounds combine, and build your own beat."
+    },
+    "steps": [
+      { "icon": "folder",       "title": "Open the Stage", "desc": "Load the game in your browser and you'll see an empty stage with a row of characters at the bottom. Each character has a name and icon representing its sound category — drums, bass, melody, or effects." },
+      { "icon": "eye",          "title": "Preview Characters", "desc": "Hover over or click a character to hear its individual sound loop before adding it to the stage. This lets you audition sounds and plan your mix before committing to a slot." },
+      { "icon": "refresh",      "title": "Build Your Beat", "desc": "Drag characters onto the stage slots. Their sounds begin playing immediately and loop in sync with each other. Add multiple characters to layer sounds. Remove any character by clicking it on the stage." },
+      { "icon": "puzzle",       "title": "Mix and Experiment", "desc": "Try different combinations across the character categories. Swap the bass character for a different one, change the drum pattern, or add a harmony melody on top. The mix updates instantly — nothing is permanent until you choose to save." },
+      { "icon": "check-circle", "title": "Share or Start Over", "desc": "Once you're happy with your beat, share it or try an entirely different arrangement. Clearing the stage lets you start fresh. Each session produces something different." }
+    ],
+    "categories": [
+      { "name": "Chill Vibes",    "icon": "star",   "color": "#10b981", "bg": "#d1fae5", "img": "/level-thumbs/category-1.webp" },
+      { "name": "Rhythm Builder", "icon": "target", "color": "#3b82f6", "bg": "#dbeafe", "img": "/level-thumbs/category-2.webp" },
+      { "name": "Beat Crafter",   "icon": "zap",    "color": "#f59e0b", "bg": "#fef3c7", "img": "/level-thumbs/category-3.webp" },
+      { "name": "Remix Mode",     "icon": "trophy", "color": "#8b5cf6", "bg": "#ede9fe", "img": "/level-thumbs/category-4.webp" },
+      { "name": "Sound Master",   "icon": "crown",  "color": "#ef4444", "bg": "#fee2e2", "img": "/level-thumbs/category-5.webp" }
+    ],
+    "features": [
+      { "icon": "bolt",   "title": "Instant Sound Feedback", "desc": "Every character you drag onto the stage plays its loop immediately. There's no delay, no loading bar, and no configuration step — the beat builds as fast as you can drag." },
+      { "icon": "target", "title": "No Wrong Combinations", "desc": "The sounds in Sprunki Beats are designed to work together. Any combination of characters produces something that loops rhythmically. Creative exploration always sounds coherent." },
+      { "icon": "device", "title": "Works on Any Device", "desc": "Sprunki Beats runs in desktop and mobile browsers without a download. The drag-and-drop interface adapts to touch screens, so it's equally playable on phones and tablets." },
+      { "icon": "image",  "title": "Vivid Character Design", "desc": "Each character has a distinct animated look that matches its sound personality. The visual variety makes it easy to remember which character plays which sound and makes the stage fun to look at." },
+      { "icon": "shield", "title": "Safe for All Ages", "desc": "No ads targeting children and no in-app purchases. Sprunki Beats contains no violent content and requires no account. It is genuinely safe for younger players to use independently." },
+      { "icon": "music",  "title": "High-Quality Sound Design", "desc": "The game's loops are professionally produced and mixed so they layer cleanly regardless of combination. Bass, percussion, melody, and effects all sit in distinct frequency ranges to avoid muddiness." }
+    ],
+    "faq": [
+      { "q": "What is Sprunki Beats?", "a": "Sprunki Beats is a free browser casual game where you place animated characters on a stage, each contributing a looping sound, to build a musical beat. No musical knowledge is required." },
+      { "q": "Is Sprunki Beats free?", "a": "Yes. Sprunki Beats is entirely free to play in the browser with no in-app purchases, subscriptions, or hidden fees." },
+      { "q": "Does Sprunki Beats work on mobile?", "a": "Sprunki Beats works on modern mobile browsers with full touch support. Drag-and-drop interactions are adapted for touchscreens on phones and tablets." },
+      { "q": "How many levels are there?", "a": "Sprunki Beats is not level-based — it's an open sandbox with 20+ characters and 100+ sound combinations to explore. Each session you build a different track." },
+      { "q": "Is Sprunki Beats safe for kids?", "a": "Sprunki Beats is safe for all ages. There are no ads targeting children, no in-app purchases, no account requirements, and no violent content of any kind." },
+      { "q": "Do I need an account?", "a": "No account is needed. Open the game and start building your beat immediately — no sign-in or registration required." }
+    ],
+    "cta": {
+      "headline": "Ready to Build Your First Beat?",
+      "subtext": "No music experience needed — drag, drop, and hear the sounds come together instantly."
+    }
+  },
+
+  "playPage": {
+    "howItWorksSubtitle": "Drag animated characters onto the stage and hear your beat take shape in real time.",
+    "steps": [
+      { "title": "Pick Your Characters", "desc": "Browse the character roster at the bottom of the stage. Each character plays a unique looping sound — drums, bass, melody, or vocal effects. Hover over any character to preview its sound before dragging it onto the stage." },
+      { "title": "Layer the Sounds", "desc": "Place characters in the available stage slots. Their sounds play simultaneously and loop in sync. Keep adding characters to build up the complexity of your track — or remove any character instantly by clicking it." },
+      { "title": "Adjust Until It Sounds Right", "desc": "Swap characters in and out, try different combinations from each category, and find the arrangement that sounds best. There are no wrong answers — every combination is designed to be rhythmically coherent." }
+    ]
+  },
+
+  "faqPage": {
+    "items": [
+      { "q": "Is Sprunki Beats really free?", "a": "Yes. The full game is free to play in the browser with no payment, account, or subscription required. There are no in-app purchases of any kind." },
+      { "q": "What devices can I play on?", "a": "Sprunki Beats works on desktop computers running Windows, Mac, or Linux, and on modern smartphones and tablets. Any device with an up-to-date browser can access the full game." },
+      { "q": "How does the game work?", "a": "You drag animated characters from a selection panel onto a stage. Each character plays a unique looping sound — a drum beat, a bass line, a melody, or a vocal effect. The sounds combine automatically in rhythm. You build your track by adding, removing, and rearranging characters until the mix sounds how you want it." },
+      { "q": "How many levels are there?", "a": "Sprunki Beats does not use levels. It's an open creative sandbox. The game features 20+ playable characters and over 100 possible sound combinations, giving you enormous variety across sessions without a linear progression structure." },
+      { "q": "Can I play offline?", "a": "Sprunki Beats requires an internet connection to load in the browser. Once the game is loaded, the audio and gameplay run locally, so a brief disconnect during play should not interrupt your session." },
+      { "q": "Is my progress saved?", "a": "Sprunki Beats is session-based. Your current beat arrangement exists while the game tab is open. Some versions of the game allow you to share or save a beat via a link — check the in-game options for sharing functionality." },
+      { "q": "Is Sprunki Beats safe for children?", "a": "Sprunki Beats is safe for all ages. There are no ads targeting children, no in-app purchases, no violent content, and no account required. It is fully appropriate for unsupervised play by children of all ages." },
+      { "q": "Do I need to create an account?", "a": "No account is required. The game is immediately accessible in the browser without any registration." }
+    ]
+  },
+
+  "howToPlayPage": {
+    "intro": "Sprunki Beats is a music sandbox casual game. You place animated characters on a stage and each one adds a unique sound loop to a growing beat. The goal is to experiment freely and find combinations that sound great — there is no scoring, no fail state, and no correct answer.",
+    "steps": [
+      { "title": "Understand the Character Categories", "desc": "The characters in Sprunki Beats fall into broad sound categories — rhythm characters provide drum loops and percussion, bass characters add low-frequency groove, melody characters contribute pitched musical phrases, and effect characters add atmospheric or vocal textures. Building a beat that uses at least one from each category tends to produce a balanced and full-sounding result." },
+      { "title": "Start With the Rhythm", "desc": "Place a drum or rhythm character first. The rhythm character sets the tempo feel for the entire beat and gives you a reference point as you add other sounds. Once you have the rhythm locked, add a bass character to complement it. From there, melody and effect layers fill in the space above." },
+      { "title": "Edit Actively", "desc": "The best beats in Sprunki Beats come from active editing — adding a character, listening to how it changes the mix, and deciding whether to keep it. Remove characters that make the mix feel cluttered. Swap characters within a category to change the texture without disrupting the overall structure. A mix with five well-chosen characters often sounds better than one with ten." }
+    ],
+    "mechanic": { "title": "The Loop System", "desc": "Every character in Sprunki Beats plays a fixed-length audio loop. All loops are designed to be the same length and share the same tempo, so any combination of characters stays in sync automatically. When you add a character mid-loop, it waits for the next loop start before joining — this snapping behaviour keeps the beat tight and rhythmically coherent regardless of when you drag characters onto the stage." },
+    "difficultyProgression": "Sprunki Beats has no difficulty levels. The game is designed as a creative sandbox where you set your own challenge. Beginners start by placing one or two characters and listening to how they interact. More experienced players try to build full, layered tracks using all available character categories simultaneously, or attempt to recreate specific musical genres by selecting characters strategically.",
+    "tips": [
+      { "title": "Preview Before Placing", "desc": "Hover over each character in the selection panel to hear its sound loop before dragging it onto the stage. Auditioning characters before adding them prevents you from cluttering the mix with sounds that do not fit your current arrangement." },
+      { "title": "Use the Rhythm Character as an Anchor", "desc": "Place a drum or percussion character first and build everything else around it. The rhythm character defines the tempo feel and gives your other sounds a reference pulse to sit against. A beat without a clear rhythmic anchor often feels unfocused." },
+      { "title": "Less Is Often More", "desc": "Resist the temptation to fill every slot. A mix with four or five carefully chosen characters frequently sounds more coherent than one with ten competing sounds. Remove characters that feel redundant and listen to whether the mix improves — it usually does." },
+      { "title": "Try One Category at a Time", "desc": "If a combination sounds muddy, try isolating individual categories. Mute all melody characters temporarily by removing them and listen to whether the rhythm and bass hold up alone. Add characters back one at a time to identify which one is causing the problem." },
+      { "title": "Recreate Genres by Character Selection", "desc": "Different character combinations evoke different musical styles. Selecting two rhythm characters with a deep bass and a sparse melody produces a hip-hop feel. High-energy percussion with fast melodic loops creates something closer to electronic dance music. Experiment with specific genre goals to guide your character choices." }
+    ]
+  },
+
+  "blog": {
+    "headline": "Guides &amp; Tips",
+    "subheading": "Guides, tips, and background on Sprunki Beats — from building your first beat to understanding why music games benefit the brain.",
+    "introParagraph": "Sprunki Beats is easy to start and rewarding to explore in depth. These guides cover how to build better beats, the cognitive benefits of rhythm-based games, and everything parents need to know about the game's content and safety.",
+    "posts": [
+      {
+        "slug": "getting-started",
+        "title": "Getting Started with Sprunki Beats: A Complete Beginner's Guide",
+        "excerpt": "New to Sprunki Beats? This guide explains how the character system works, how to build your first beat, and what to try in your opening session.",
+        "category": "Guide",
+        "readTime": "5 min read",
+        "date": "2026-01-01",
+        "icon": "🗺️",
+        "sections": [
+          { "heading": "What Is Sprunki Beats?", "paragraphs": ["Sprunki Beats is a free browser music game where animated characters each contribute a looping sound to a shared beat. You build your track by dragging characters onto a stage, and the sounds combine automatically in rhythm. The game has no fail state and no score — its purpose is creative exploration and the satisfaction of hearing a good mix come together.", "The closest analogy is a music toy rather than a traditional game. You make something, hear how it sounds, adjust it, and try again. The characters are charming and the sounds are high quality, so even random arrangements often produce something worth listening to."] },
+          { "heading": "How to Open the Game", "paragraphs": ["Navigate to the Play page and the game loads in your browser with no download and no sign-in required. You'll see a stage area at the top and a scrollable panel of characters at the bottom. Each character has a name and an icon indicating its sound type. The game works on desktop and mobile — on a phone, use your finger to drag characters onto the stage.", "If the game audio does not play immediately, check that your device's volume is on and that the browser has not muted the tab. Most browsers allow audio after the first user interaction, so clicking anywhere on the game screen first resolves any auto-play restrictions."] },
+          { "heading": "Your First Five Minutes", "paragraphs": ["Start by placing one drum or rhythm character onto the stage. Listen to its loop for a moment. Then add a bass character from the lower character section. You should now hear a simple but coherent rhythmic foundation. Add one melody character on top and hear how the pitch content changes the feel of the mix.", "At this point you have a functional three-character beat. Experiment by swapping the melody character for a different one — you'll hear immediately whether the new choice fits better. Remove any character that sounds out of place by clicking it on the stage. The mix updates instantly, making editing fast and intuitive."] },
+          { "heading": "Ready to Play?", "paragraphs": ["Sprunki Beats rewards curiosity. The more characters you try, the more combinations you discover, and the better your ear becomes at identifying what makes a mix sound cohesive. There is no pressure, no countdown, and no consequence for a combination that does not work. Jump in, drag some characters onto the stage, and let the sounds tell you what to keep."] }
+        ]
+      },
+      {
+        "slug": "tips-and-tricks",
+        "title": "Top Tips & Tricks for Sprunki Beats",
+        "excerpt": "Build better beats, find great character combinations, and learn how to mix in Sprunki Beats like a pro.",
+        "category": "Strategy",
+        "readTime": "7 min read",
+        "date": "2026-01-05",
+        "icon": "💡",
+        "sections": [
+          { "heading": "Master the Fundamentals", "paragraphs": ["A good beat in Sprunki Beats has three elements working together: rhythm, bass, and melody. Rhythm sets the tempo and pulse. Bass provides weight and low-frequency energy. Melody adds harmonic interest and helps the mix feel musical rather than just percussive. Effect characters are additions that enhance a mix that already sounds good, not substitutes for a missing foundational element.", "Audit your current arrangement by category. If something sounds off, identify which category is missing or overrepresented. Too many melody characters without enough rhythm makes a beat feel floaty. Too much percussion without a bass line makes it feel thin. Diagnose by category before making random swaps."] },
+          { "heading": "Think Before You Act", "paragraphs": ["Before dragging a new character onto the stage, preview it by hovering over or clicking it in the selection panel. Hear how its loop sounds individually before committing it to the mix. This extra step prevents you from adding sounds that immediately clash and saves time during editing.", "Count how many stage slots you currently have filled and how many remain available. Leaving one or two slots open gives you room to add a character if you hear a gap in the mix. Filling every slot immediately limits your flexibility and often produces a cluttered result."] },
+          { "heading": "Recognise Patterns Early", "paragraphs": ["After several sessions, you'll develop an ear for which characters pair well together. Certain rhythm characters have a syncopated feel that works better with specific bass loops. Certain melody characters sit in a frequency range that complements specific effect characters. Keep mental notes of the combinations that consistently sound good and return to them as starting points.", "Notice which characters produce sounds that conflict. Two characters playing in the same frequency range will fight each other for space in the mix. If a combination sounds muddy rather than layered, swap one character for a higher or lower register alternative to create separation."] },
+          { "heading": "Advanced Techniques", "paragraphs": ["Try building thematic beats by selecting characters from a specific colour or visual group. The game's character design often groups similarly styled characters whose sounds share a musical genre or mood. Selecting a visually cohesive set often produces a sonically cohesive mix — the design is not accidental.", "Remove all characters from the stage and start again when a mix is not working. A fresh start often reveals a better path than iterating on a combination that is fundamentally incoherent. The ability to wipe the stage and begin with different assumptions is one of the game's strengths — use it freely."] }
+        ]
+      },
+      {
+        "slug": "game-benefits",
+        "title": "The Cognitive Benefits of Playing Sprunki Beats",
+        "excerpt": "How rhythm and music games improve auditory processing, creativity, and stress management — and why Sprunki Beats is a particularly good example.",
+        "category": "Science",
+        "readTime": "6 min read",
+        "date": "2026-01-10",
+        "icon": "🧠",
+        "sections": [
+          { "heading": "Games and the Brain", "paragraphs": ["Neuroscience research shows that musical engagement — including rhythm games and beat-building — activates multiple brain regions simultaneously: auditory processing areas, the motor cortex, and the prefrontal cortex responsible for decision-making. This multi-region activation is why music games are associated with broader cognitive benefits than single-skill tasks.", "Rhythm-based activities in particular strengthen auditory pattern recognition, the ability to identify regularities and anomalies in sound sequences. This same skill underlies language processing and reading development, which is why music education research consistently finds correlations between musical training and literacy outcomes."] },
+          { "heading": "Problem-Solving", "paragraphs": ["Building a beat in Sprunki Beats is a constrained creative problem. You have a fixed set of characters and a limited number of stage slots. Finding the combination that sounds best within those constraints is a problem-solving exercise that requires trial, evaluation, and adjustment. This iterative process mirrors the scientific method at a small scale: hypothesis, test, observe, revise.", "The absence of a penalty for a wrong combination is an important design choice. Research on creative learning shows that environments where experimentation has no negative consequence produce more exploratory behaviour and greater creative output. Sprunki Beats is structured to encourage exactly this kind of free experimentation."] },
+          { "heading": "Stress Relief", "paragraphs": ["The act of listening to music activates the brain's reward system, releasing dopamine in response to pleasing sound patterns. Building a beat that sounds good provides a form of this same reward, with the added satisfaction of creative authorship — the sense that you made this. This combination of auditory pleasure and creative pride makes casual music games particularly effective stress-relief tools.", "Sessions in Sprunki Beats have no time pressure and no fail state, which removes the anxiety component present in many games. Players in a low-stress, low-stakes creative environment report the experience as genuinely restful — comparable to doodling, colouring, or other low-effort creative activities associated with mindfulness benefits."] },
+          { "heading": "Safe Screen Time", "paragraphs": ["Sprunki Beats contains no ads targeting children, no in-app purchases, and no social pressure mechanics. There are no daily rewards, no time-limited events, and no mechanisms designed to maximise session length. The game provides what it provides and then stops — a clean and respectful design in contrast to many engagement-maximising free-to-play titles.", "For parents looking for structured creative screen time options, Sprunki Beats sits alongside colouring apps and drawing tools as a genuinely creative and non-manipulative alternative to passive video consumption. Sessions are naturally bounded by creative completion — once a beat sounds finished, most players stop of their own accord."] }
+        ]
+      },
+      {
+        "slug": "how-to-improve",
+        "title": "How to Get Better at Sprunki Beats",
+        "excerpt": "Improve your ear, build more sophisticated mixes, and develop a consistent creative process for building beats in Sprunki Beats.",
+        "category": "Strategy",
+        "readTime": "8 min read",
+        "date": "2026-01-15",
+        "icon": "📈",
+        "sections": [
+          { "heading": "Focus on Consistency", "paragraphs": ["Improvement in Sprunki Beats is about developing a reliable process rather than discovering lucky combinations. Start every session by establishing the rhythm first. Then add the bass. Then select a melody. This consistent ordering gives you a repeatable framework that produces solid results even before you start experimenting with less conventional character choices.", "Pay attention to which combinations reliably produce satisfying results and which ones consistently disappoint. After ten sessions you will have a personal catalogue of combinations that work and combinations to avoid. This accumulated knowledge — not any single brilliant discovery — is what makes your beats sound better over time."] },
+          { "heading": "Analyse Your Mistakes", "paragraphs": ["When a mix sounds wrong, diagnose before you fix. Is the problem in the rhythm layer — does the beat feel unsteady or off-pattern? Is it in the bass layer — does the low end feel absent or overpowering? Is it a frequency conflict — are two characters playing in the same register and masking each other? Identifying the problem category first leads to faster and more accurate fixes.", "Record which character combinations you tried and which ones produced the problem. Over time, you will identify recurring conflicts — specific characters that never sound good together — and learn to avoid them proactively rather than discovering the problem by ear every time."] },
+          { "heading": "Build a Strategy", "paragraphs": ["Approach each session with a specific goal. Choose a genre target — hip-hop, electronic, lo-fi — and select characters that fit that aesthetic. This constraint makes the session more focused and the result more coherent than purely random selection. Knowing what you're trying to build guides every character choice.", "Study the character panel before starting. Look for characters whose visual design suggests a specific mood or energy — high-energy and angular designs tend toward harder rhythms, while rounder and warmer character designs often produce mellower sounds. Using the visual design as a creative prompt is a quick way to develop thematic beats."] },
+          { "heading": "Practice Regularly", "paragraphs": ["Your ear for music improves with consistent exposure to sound combinations. Playing Sprunki Beats regularly — even in short five-minute sessions — trains your auditory processing in ways that compound over time. You begin to hear problems and solutions immediately rather than through trial and error.", "Challenge yourself with self-imposed constraints. Try building a beat using only three characters. Try using a character from each category exactly once. Try recreating a favourite song's feel using the available sounds. Constraint-based practice develops creative problem-solving skills that transfer into your unconstrained sessions."] }
+        ]
+      },
+      {
+        "slug": "parents-guide",
+        "title": "Sprunki Beats for Kids: A Parent's Complete Guide",
+        "excerpt": "Everything parents need to know about Sprunki Beats — content rating, educational benefits, safe browser play, and screen time guidance.",
+        "category": "Family",
+        "readTime": "6 min read",
+        "date": "2026-01-20",
+        "icon": "👨‍👩‍👧",
+        "sections": [
+          { "heading": "Is Sprunki Beats Safe for Children?", "paragraphs": ["Sprunki Beats is safe for children of all ages. The game contains no violent content, no mature themes, and no social interaction features. There are no ads targeting children and no in-app purchases of any kind. The game is entirely free and runs in the browser without requiring account creation or any personal information from the player.", "The content is purely musical and visual. Animated characters make sounds. Players arrange them on a stage to build a beat. There is nothing in the game that requires parental filtering or concern. It is one of the most genuinely child-safe browser games available."] },
+          { "heading": "What Will My Child Learn?", "paragraphs": ["Sprunki Beats develops musical awareness and creative thinking in an accessible, low-pressure environment. Children learn to identify different categories of sound — rhythm, bass, melody, effects — and understand how combining these elements creates a fuller musical texture. This basic understanding of music production is genuinely educational and transfers to wider musical literacy.", "The game also builds patience and iterative thinking. Children learn to listen carefully to a mix, identify what is not working, remove it, try something else, and listen again. This evaluate-adjust-evaluate cycle is a fundamental thinking skill with applications well beyond music. The game teaches it through a medium children find naturally engaging."] },
+          { "heading": "Tips for Healthy Screen Time", "paragraphs": ["Sprunki Beats is a creative tool, not an addictive engagement-loop game. There are no daily rewards, no push notifications, and no artificial incentives to keep playing beyond the natural satisfaction of a good beat. This means children typically stop playing when they feel creatively satisfied rather than being manipulated into extending their session.", "A useful framing for parents is to treat Sprunki Beats like a colouring book or a set of building blocks — a creative toy with a defined scope rather than an infinite entertainment platform. Setting a session limit based on a creative goal, such as making two complete beats, is an effective and fair way to manage time without conflict."] },
+          { "heading": "COPPA Compliance", "paragraphs": ["Sprunki Beats collects no personal information and does not require account creation. There is no user profile, no data storage, and no advertising infrastructure. Play is entirely anonymous and session-based. The game does not meet any of the criteria that would require COPPA compliance measures because it does not collect or process child data in any form.", "Parents can allow children to use Sprunki Beats without any parental control configuration or credential management. The game is safe for direct, unsupervised access by children of all ages. Standard supervision of general internet activity is always advisable, but the game itself presents no specific risks or concerns."] }
+        ]
+      }
+    ]
+  }
+}
